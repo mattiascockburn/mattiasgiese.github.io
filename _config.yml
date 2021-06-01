@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+---
+theme: jekyll-theme-modernist
+title: Mattias Giese
+description: 'A guy glueing stuff together'
+show_downloads: false
